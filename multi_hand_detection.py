@@ -1,3 +1,8 @@
+"""
+Reference ]
+https://www.youtube.com/watch?v=RQ-2JWzNc6k
+"""
+
 import mediapipe as mp
 import cv2
 import numpy as np
